@@ -5,5 +5,5 @@ Esse projeto foi usado HTML e CSS, foi aplicado conceitos de responsividade que 
 
 
 <p align="center">
-  <img width="470" scr="assets/to_readme.png">
+  <img width="470" scr="/assets/to_readme.png">
 </p>
